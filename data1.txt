@@ -1,0 +1,5 @@
+java,20,bala,20,Gala,2015,20,400
+maths,800,maris,20,Prakashan,2019,20,16000
+java,500,bala,20,prakshan,1983,20,10000
+os,200,moris,1,man,2011,1000,5
+bhaktil,500,me,5,sas,015,5,2500
